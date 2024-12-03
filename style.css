@@ -42,6 +42,7 @@ body {
 
 .content img {
   width: 100px;
+  height: auto;
   border-radius: 50%;
   margin: 20px;
 }
